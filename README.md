@@ -1,2 +1,2 @@
 # Newscat-bot
-Blabla
+run in linux : php newscat.php
